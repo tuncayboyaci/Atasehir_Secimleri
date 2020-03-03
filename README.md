@@ -1,3 +1,3 @@
-# Atasehir_Secimleri
+# Atasehir_Secimler
 
-Dosyayı indirip,tarayıcınızdan açmanız gerekmektedir.
+Zip dosyası olarak indirip,tarayıcınızdan açmanız gerekmektedir.
